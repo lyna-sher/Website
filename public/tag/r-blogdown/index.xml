@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Blogdown | Homepage Vasylyna Sheremeta</title>
+    <link>https://vasylyna-sheremeta.netlify.app/tag/r-blogdown/</link>
+      <atom:link href="https://vasylyna-sheremeta.netlify.app/tag/r-blogdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Blogdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vasylyna-sheremeta.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>R Blogdown</title>
+      <link>https://vasylyna-sheremeta.netlify.app/tag/r-blogdown/</link>
+    </image>
+    
+    <item>
+      <title>New homepage built in R blogdown and Hugo</title>
+      <link>https://vasylyna-sheremeta.netlify.app/post/newsite/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://vasylyna-sheremeta.netlify.app/post/newsite/</guid>
+      <description>
+&lt;script src=&#34;https://vasylyna-sheremeta.netlify.app/post/newsite/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;digital-resurrection&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Digital resurrection!&lt;/h1&gt;
+&lt;p&gt;I am happy to be back online with a new personal homepage. Building this website was a very pleasant experience, thanks to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;R Blogdown &lt;/a&gt; package&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://gohugo.io&#34;&gt; Hugo &lt;/a&gt; static website builder&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://wowchemy.com/hugo-themes/&#34;&gt;wowchemy academic &lt;/a&gt; theme&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;A great &lt;a href=&#34;https://www.youtube.com/watch?v=8xbxXR_Iu5Y&amp;list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj&#34;&gt; online tutorial &lt;/a&gt; by Jenny Sloane and Tehilla Ostrovsky&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many thanks to all to make it so easy to look good online!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

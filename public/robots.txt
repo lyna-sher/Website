@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vasylyna-sheremeta.netlify.app/sitemap.xml

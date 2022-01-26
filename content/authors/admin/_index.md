@@ -10,10 +10,10 @@ education:
   - course: Master in Economics (licentiaat)
     institution: KU Leuven
     year: 2002
-  - course: Master in History (licentiaat)
+  - course: Bachelor in Finance
     institution: KU Leuven
     year: 1999
-email: tom.truyts@usaintlouis.be
+email: vasylyna.sheremeta@usaintlouis.be
 highlight_name: true
 interests:
 - Public finance
@@ -31,17 +31,17 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/tomtruyts
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/tom-truyts-5b5597137
+  link: https://github.com/lyna-sher
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Tom Truyts
+title: Lyna Sheremeta
 ---
 
 Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 

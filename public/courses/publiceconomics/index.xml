@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECGE1215 - Public Economics (EN) | Homepage Vasylyna Sheremeta</title>
+    <link>https://vasylyna-sheremeta.netlify.app/courses/publiceconomics/</link>
+      <atom:link href="https://vasylyna-sheremeta.netlify.app/courses/publiceconomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>ECGE1215 - Public Economics (EN)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vasylyna-sheremeta.netlify.app/courses/publiceconomics/featured.jpg</url>
+      <title>ECGE1215 - Public Economics (EN)</title>
+      <link>https://vasylyna-sheremeta.netlify.app/courses/publiceconomics/</link>
+    </image>
+    
+  </channel>
+</rss>

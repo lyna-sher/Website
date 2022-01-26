@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESPO1173 - Economie 1 (NL) | Homepage Vasylyna Sheremeta</title>
+    <link>https://vasylyna-sheremeta.netlify.app/courses/economie1/</link>
+      <atom:link href="https://vasylyna-sheremeta.netlify.app/courses/economie1/index.xml" rel="self" type="application/rss+xml" />
+    <description>ESPO1173 - Economie 1 (NL)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vasylyna-sheremeta.netlify.app/courses/economie1/featured.jpg</url>
+      <title>ESPO1173 - Economie 1 (NL)</title>
+      <link>https://vasylyna-sheremeta.netlify.app/courses/economie1/</link>
+    </image>
+    
+  </channel>
+</rss>

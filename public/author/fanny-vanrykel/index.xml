@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fanny Vanrykel | Homepage Vasylyna Sheremeta</title>
+    <link>https://vasylyna-sheremeta.netlify.app/author/fanny-vanrykel/</link>
+      <atom:link href="https://vasylyna-sheremeta.netlify.app/author/fanny-vanrykel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fanny Vanrykel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vasylyna-sheremeta.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fanny Vanrykel</title>
+      <link>https://vasylyna-sheremeta.netlify.app/author/fanny-vanrykel/</link>
+    </image>
+    
+    <item>
+      <title>Reforming the fiscal treatment of company cars: the CoCaTax micro-simulation model</title>
+      <link>https://vasylyna-sheremeta.netlify.app/publication/grandjean2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://vasylyna-sheremeta.netlify.app/publication/grandjean2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
