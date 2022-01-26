@@ -1,30 +1,26 @@
 ---
 education:
   courses:
-  - course: PhD in Economics
-    institution: KU Leuven
-    year: 2008
-  - course: MSc in Economics
-    institution: KU Leuven
-    year: 2003
-  - course: Master in Economics (licentiaat)
-    institution: KU Leuven
-    year: 2002
-  - course: Bachelor in Finance
-    institution: KU Leuven
-    year: 1999
+  - course: MA in Economics, Double Degree program
+    institution: Université Catholique de Louvain and University of Warsaw
+    year: 2018
+  - course: BS in Finance
+    institution: Odessa Institute of Trade and Economics of Kyiv National University of Trade and Economics
+    year: 2016
+  - course: Junior Specialist in Finance
+    institution: Odessa College of Finance and Economics of Ukrainian State University of Finance and International Trade
+    year: 2014
 email: vasylyna.sheremeta@usaintlouis.be
 highlight_name: true
 interests:
-- Public finance
+- Public economics
 - Microsimulation modelling
 - Data science
-- Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
+- Transport, environment, social inequality
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
-role: Professor of Public Economics
+role: Doctoral Student in Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,11 +37,12 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Lyna Sheremeta
+title: Vasylyna Sheremeta
 ---
 
-Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
-Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Vasylyna Sheremeta is currently a doctoral student in economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  Her research interests are in the field of public economics, microsimulation modelling, transport and environmental economics. More specifically her research centers around the questions of efficiency and equity of public policies aimed to mitigate road congestion.
 
-Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Lyna Sheremeta the core developer in the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+
+Lyna Sheremeta is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
