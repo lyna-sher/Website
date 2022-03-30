@@ -1,9 +1,9 @@
 ---
 date: "2021-01-24"
-linkTitle: Economie 1 (NL)
+linkTitle: Economics I (EN)
 summary: An introduction to (micro-)economics for BAC 1 students (economics, business,
   business engineering), and for BAC 2 students in political and social sciences.
-title: ESPO1173 - Economie 1 (NL)
+title: ECGE1113 - Economics I (EN)
 type: book
 ---
 
@@ -18,7 +18,7 @@ type: book
 
 ## Language of instruction
 
-The class, syllabus and the reference book are in Dutch. 
+The class and the reference book are in English. 
 
 ## Learning outcomes
 
@@ -34,7 +34,34 @@ The chosen methodology is a qualitative and graphical presentation of economic m
 
 
 ## Course content
-The Economics 1 course consists of 3 parts. In part 1, we will start with a presentation of the economic problem as a coordination problem, and explore for a first time the functioning of markets and public interventions in markets. Part 2 focusses on the supply side of the market. We explore the theory of the firm, the production and cost functions, and the behavior of producers in the context of market in perfect competition, monopoly and imperfect competition. In part 2, we focus on an evalution of the functioning of markets from the point of view of social welfare. We study several market failures and and analyze a series of potential solutions to such market failures.
+The Economics 1 course will start with a presentation of the economic model of demand and supply in order to provide an analysis of the mechanisms of competitive markets (price determination, equilibrium quantity, etc.). It will also investigate the impact of some public policies such as price control and indirect taxation on the competitive equilibrium.
+The course will then determine why, and under which conditions, free trade can be viewed as an efficient way to coordinate the actions of specialized economic agents. Through a careful examination of the (utopic) necessary conditions a market must fulfil to be considered perfectly competitive, it will be brought to the students' attention that those conditions are seldom (if ever) respected: the course will then provide an overview of several market failures, as well as study in detail several types of imperfect competition.
+Finally, the question of the possibility (and the necessity) of public intervention in a market economy will remain a central focus throughout the course.
+
+Part I: Introduction
+Chapter 1: Introduction
+
+Part II: The theory of competitive markets
+Chapter 2: The market forces of supply and demand
+Chapter 3: Elasticities
+Chapter 4: Consumers, producers and efficiency of markets
+Chapter 5: Supply, demand and government policies
+
+Part III: Market failures under perfect competition
+Chapter 6: Market failures and externalities
+Chapter 7: Public goods and common resources
+
+Part IV: Firm behavior in competitive markets
+Chapter 8: The costs of production
+Chapter 9: Firms in competitive markets
+
+Part V: Imperfect competition
+Chapter 10: Monopoly
+Chapter 11: Other examples of imperfect competition
+
+Part VI: Trade
+Chapter 12 : Interdependence and the gains from trade
+
 
 ## Course materials
 - Reference book: André Decoster and Erwin Ooghe (eds). Economie. Een inleiding, 2017 edition. ISBN 9789462701090. Available at the service de reprographie  
