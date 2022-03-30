@@ -39,28 +39,28 @@ The course will then determine why, and under which conditions, free trade can b
 Finally, the question of the possibility (and the necessity) of public intervention in a market economy will remain a central focus throughout the course.
 
 Part I: Introduction
-  Chapter 1: Introduction
+  * Chapter 1: Introduction
 
 Part II: The theory of competitive markets
-  Chapter 2: The market forces of supply and demand
-  Chapter 3: Elasticities
-  Chapter 4: Consumers, producers and efficiency of markets
-  Chapter 5: Supply, demand and government policies
+  * Chapter 2: The market forces of supply and demand
+  * Chapter 3: Elasticities
+  * Chapter 4: Consumers, producers and efficiency of markets
+  * Chapter 5: Supply, demand and government policies
 
 Part III: Market failures under perfect competition
-  Chapter 6: Market failures and externalities
-  Chapter 7: Public goods and common resources
+  * Chapter 6: Market failures and externalities
+  * Chapter 7: Public goods and common resources
 
 Part IV: Firm behavior in competitive markets
-  Chapter 8: The costs of production
-  Chapter 9: Firms in competitive markets
+  * Chapter 8: The costs of production
+  * Chapter 9: Firms in competitive markets
 
 Part V: Imperfect competition
-  Chapter 10: Monopoly
-  Chapter 11: Other examples of imperfect competition
+  * Chapter 10: Monopoly
+  * Chapter 11: Other examples of imperfect competition
 
 Part VI: Trade
-  Chapter 12 : Interdependence and the gains from trade
+  * Chapter 12 : Interdependence and the gains from trade
 
 
 ## Course materials
