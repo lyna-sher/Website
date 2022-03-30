@@ -39,33 +39,32 @@ The course will then determine why, and under which conditions, free trade can b
 Finally, the question of the possibility (and the necessity) of public intervention in a market economy will remain a central focus throughout the course.
 
 Part I: Introduction
-Chapter 1: Introduction
+  Chapter 1: Introduction
 
 Part II: The theory of competitive markets
-Chapter 2: The market forces of supply and demand
-Chapter 3: Elasticities
-Chapter 4: Consumers, producers and efficiency of markets
-Chapter 5: Supply, demand and government policies
+  Chapter 2: The market forces of supply and demand
+  Chapter 3: Elasticities
+  Chapter 4: Consumers, producers and efficiency of markets
+  Chapter 5: Supply, demand and government policies
 
 Part III: Market failures under perfect competition
-Chapter 6: Market failures and externalities
-Chapter 7: Public goods and common resources
+  Chapter 6: Market failures and externalities
+  Chapter 7: Public goods and common resources
 
 Part IV: Firm behavior in competitive markets
-Chapter 8: The costs of production
-Chapter 9: Firms in competitive markets
+  Chapter 8: The costs of production
+  Chapter 9: Firms in competitive markets
 
 Part V: Imperfect competition
-Chapter 10: Monopoly
-Chapter 11: Other examples of imperfect competition
+  Chapter 10: Monopoly
+  Chapter 11: Other examples of imperfect competition
 
 Part VI: Trade
-Chapter 12 : Interdependence and the gains from trade
+  Chapter 12 : Interdependence and the gains from trade
 
 
 ## Course materials
-- Reference book: André Decoster and Erwin Ooghe (eds). Economie. Een inleiding, 2017 edition. ISBN 9789462701090. Available at the service de reprographie  
-- Syllabus: Tom Truyts, "Economie 1". Available at the service de reprographie  
+- Reference book: Mankiw, Gregory et Mark Taylor, Economics, Cengage Learning Emea, 5th edition, ISNB, 9781473768543, 2019.  
 
 ## Learning activities
 a) Plenary lectures
@@ -78,12 +77,10 @@ The exercise sessions are carried out in small groups, and aim at checking knowl
 c) Personal work
 Regular personal work is critical for success. As the course goes on, each student is expected to devote sufficient time so as to make sure he/she understands the subjects being treated. The revision period at the end of the semester should not be the occasion to discover the course contents, but rather to strengthen the comprehension of a course that is already known by the student. Personal meetings with the course assistants and the professor can be arranged for the students who specifically ask it.   
 
-d) Paper assignment
-Each student will hand in a short paper in which concepts of the course are applied to a press article, chosen by the student from a list of press articles made available on the course website.  
 
 
 
-## Meet your instructor
+## Teaching assistant (2018-2021)
 
 {{< mention "admin" >}}
 
