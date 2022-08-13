@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: Economics I (EN)
+linkTitle: Introduction to financial markets (EN)
 summary: A microeconomics course for BAC 2 students.
-title: ECGE1217 - Microeconomics (EN)
+title: ECGE1116 - Introduction to financial markets (EN)
 type: book
 ---
 
@@ -11,8 +11,8 @@ type: book
 ## Mode of delivery
 
 - Face-to-face, 
-- First term, 
-- 45 hours of theory 
+- Second term, 
+- 30 hours of theory 
 - 15 hours of exercises.
 
 ## Language of instruction
@@ -21,32 +21,43 @@ The class and the reference book are in English.
 
 ## Learning outcomes
 
-Define the main microeconomic concepts and specify their scope. To develop the student's ability to carry out a formalized economic analysis by systematic mathematical modeling of individual behavior and their impact on the allocation of economic resources in markets. Use this formalization to analyze the mechanisms underlying the economic facts observed. Demonstrate the main results necessary for the construction and characterization of market equilibrium, in perfect and imperfect competition.
-
-Specific objectives: At the end of the course (and TA sessions) the student will be able to:
-  - Propose a stylized but coherent analysis of simple economic phenomena based on the individual behavior of the agents concerned.
-  - Use mathematical language to formalize simple economic problems.
-  - Discuss the role of the assumptions used to establish the main results of the course. Discuss the relevance of these findings to the analysis of real economic situations.
-  - Apply theoretical models to solve exercises.
-  - Define the main microeconomic concepts and specify their scope.
+Students will obtain knowledge about the financial markets and will learn how to define and identify fundamental financial concepts, among which e.g. financial products. After having learned the basic terminology of the financial world, they will be able to understand financial economic newspaper articles (and reports) and explain them in their own words. They will also learn how to apply the theoretical concepts during exercise sessions during which financial problems will be solved (e.g. with respect to time value of money, the term structure of interest rates, pricing of financial instruments and the risk-return trade off) and graphical representations will have to be made.
 
 
 
 ## Course content
-The course covers the central areas of analysis of individual economic behavior (microeconomics) and their relation to the market, so as to propose a first formalization of economic exchanges, resulting in the allocation of scarce resources based on the decentralization of decisions via market prices.
-In the first part, we analyze, on the one hand, consumer behavior and, on the other, the behavior of the firm in perfect competition based on the analysis of production technologies. The characterization and main properties of short and long term competitive equilibrium are studied in a partial equilibrium context.
-In a second part the competitive equilibrium model is introduced using the construction of demand functions for goods and services from the mathematical formalization of consumer behavior. The analytical framework of an exchange economy is formalized. The problem of general equilibrium and efficiency in the allocation of resources is addressed in this context.
-In a third part we study one of the main sources of market failure: information asymmetry. If time permits, the other main source of market failure will be addressed: imperfect competition (monopoly, oligopolies).
+In a first part, money and the financial system will be introduced. In order to enable the pricing of financial instruments, the time value of money will be addressed. Present and future value calculations of a single cash flow, of cash flow streams, annuities and perpetuities will be taught.
+Both money market (treasury bills, commercial paper, repo) and capital market products (bonds, stocks) will be discussed. We will go into the pricing and the risk of bonds and stocks.
+Finally the importance of financial intermediaries is addressed, focusing on the structure of the financial industry, the depository institutions and the regulator.
+
+Contents in detail:
+
+Part 1: Introduction:
+Why study money, banking and financial markets?
+An overview of the financial system with a focus on the European and Belgian Markets
+What is money?
+
+Part 2: Financial Markets
+The meaning of interest rates, annuities, perpetuities and loan tables
+The behavior of interest rates
+Risk structure of interest rates
+Stock markets and the efficient market hypothesis
+
+Part 3: Financial Institutions
+An economic analysis of financial structure
+An introduction to banking and general principles of bank management
+Financial crises in advanced economies
+Financial crises in emerging economies
 
 ## Course materials
-- Reference book: Varian, Hal, Intermediate Microeconomics, ninth edition, W.W. Norton & Company, ISBN, 9780393689815, 2020.
+- Reference book: The Economics of Money, Banking and Financial Markets (12th Edition) (The Pearson Series in Economics) - Frederic S. Mishkin - Paperback ISBN: 9781292268859
 
 ## Learning activities
 a) Lectures
-Lectures of theoretical developments with students' participation via questions asked by the teacher.
+During the lectures the theoretical concepts will be explained. Students will be encouraged to participate to class, answering to questions that will be raised (e.g. using Wooclap). Financial examples applying theoretical concepts will be demonstrated, together with a (virtual) trading example and financial applications in MS Excel.
 
 b) Exercise sessions (TA sessions)
-Resolution of exercises by the students under the guidance of the assistants. It is recommended that the students must first review the material that is dealt with.
+Students will have the opportunity to solve problems under the guidance of an assistant, who will demonstrate the exercises. Students are encouraged to review the lecture before attending exercise classes.
 
 
 
