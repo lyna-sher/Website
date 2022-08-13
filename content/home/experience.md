@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Coordinator
+  - title: Core developer
     company: Beamm project
     company_url: ''
     company_logo: Beamm
@@ -37,7 +37,7 @@ experience:
         * running on mostly administrative data
         * and a platform for scientific research and policy support
   - title: Promoter
-    company: Beamm.brussels
+    company: Core developer
     company_url: ''
     company_logo: Beamm-br
     location: Brussels
@@ -68,17 +68,7 @@ experience:
         * Smartmove is a system of smart kilometer charges for the Brussels Capital Region
         * together with Transport & Mobility Leuven
         * report first stage available in <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Impactstudie_NL.pdf"> NL </a> or <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Analysed%27impact_FR.pdf"> FR </a>
-  - title: Methodological support
-    company: Institut bruxellois de statistique et analyse (IBSA-BISA)
-    company_url: ''
-    company_logo: BXL
-    location: Brussels
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        summary
-        
-        * Various methodological support for IBSA-BISA
+  
     
 
 design:
