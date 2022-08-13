@@ -40,9 +40,9 @@ superuser: true
 title: Vasylyna Sheremeta
 ---
 
-Vasylyna Sheremeta is currently a doctoral student in economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  Her research interests are in the field of public economics, microsimulation modelling, transport and environmental economics. More specifically her research centers around the questions of efficiency and equity of public policies aimed to mitigate road congestion.
+Vasylyna Sheremeta is currently a doctoral student in economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  Her research interests include public economics, microsimulation modelling, transport and environmental economics. More specifically her research centers around the questions of efficiency and equity of public policies aimed to mitigate road congestion.
 
-Lyna Sheremeta the core developer in the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Lyna Sheremeta is a core developer in the Beamm project, an effort to build an online open-access comprehensive tax-benefit microsimulation model for Belgium. 
 
 Lyna Sheremeta is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 

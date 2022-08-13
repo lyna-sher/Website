@@ -61,7 +61,8 @@ b)	Exercise sessions
 The students learn concrete techniques for analysing economic policy, and then start working in group on a real data set. They present their analyses and findings in a final report and will present their report in front of the class. The teaching team guides the students through the data analysis and writing process by means of regular meetings during the semester.  
  
 
-## Meet your instructor
+## Teaching assistant (since 2021)
 
 {{< mention "admin" >}}
+
 
