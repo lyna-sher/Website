@@ -44,5 +44,5 @@ Vasylyna Sheremeta is currently a doctoral student in economics at the <a href="
 
 Lyna Sheremeta is a core developer in the Beamm project, an effort to build an online open-access comprehensive tax-benefit microsimulation model for Belgium. 
 
-Lyna Sheremeta is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Lyna Sheremeta is a member of the Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>) and the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
