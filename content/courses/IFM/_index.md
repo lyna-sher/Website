@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Introduction to financial markets (EN)
-summary: A microeconomics course for BAC 2 students.
+summary: A finance course for BAC 2 students.
 title: ECGE1116 - Introduction to financial markets (EN)
 type: book
 ---
