@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Economics I (EN)
-summary: An microeconomics course for BAC 2 students.
+summary: A microeconomics course for BAC 2 students.
 title: ECGE1217 - Microeconomics (EN)
 type: book
 ---
