@@ -36,8 +36,8 @@ experience:
         * available online and in open-access
         * running on mostly administrative data
         * and a platform for scientific research and policy support
-  - title: Promoter
-    company: Core developer
+  - title: Core developer
+    company: Beamm.brussels
     company_url: ''
     company_logo: Beamm-br
     location: Brussels
@@ -69,7 +69,6 @@ experience:
         * together with Transport & Mobility Leuven
         * report first stage available in <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Impactstudie_NL.pdf"> NL </a> or <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Analysed%27impact_FR.pdf"> FR </a>
   
-    
 
 design:
   columns: '2'
